@@ -1,0 +1,53 @@
+{
+  "uploadDetails": [
+    {
+      "id": "1aa2",
+      "username": "viji",
+      "email": "viji@gmail.com",
+      "mobilenumber": "8907642147",
+      "role": "admin",
+      "status": "Active"
+    },
+    {
+      "id": "77d6",
+      "username": "bhavana",
+      "email": "bhavanarajendran20022",
+      "mobilenumber": "1234454565",
+      "role": "user",
+      "status": "Active"
+    },
+    {
+      "id": "0e80",
+      "username": "ami",
+      "email": "ami@gmail.com",
+      "mobilenumber": "2345789022",
+      "role": "admin",
+      "status": "Inactive"
+    },
+    {
+      "id": "eb1d",
+      "username": "achu",
+      "email": "achu@gmail.com",
+      "mobilenumber": "9911234567",
+      "role": "admin",
+      "status": "Active"
+    }
+  ],
+  "uploadRoledetails": [
+    {
+      "id": "d826",
+      "roles": "admin",
+      "permission": "read,write,delete"
+    },
+    {
+      "id": "4a77",
+      "roles": "developer",
+      "permission": "read"
+    },
+    {
+      "id": "4c01",
+      "roles": "user",
+      "permission": "read"
+    }
+  ]
+}
